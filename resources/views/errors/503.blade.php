@@ -10,11 +10,11 @@
 	<h1>¡Estaré de vuelta pronto!</h1>
 	<p>Disculpe las molestias pero estoy realizando unos cambios en este momento.
 	<br>Si lo necesita, siempre puede contactarme a <a href="mailto:carlos@anselmi.com.ve">carlos@anselmi.com.ve</a>, de lo contrario <br>¡volvere a estar en línea en breve!</p>
-	<p>- Anselmi</p>
-	
+	<p>- Carlos Anselmi</p>
+
 	<footer class="container mt-1">
         <div class="col-xs-12 mx-auto text-center">
-            <small>Copyright © 2018 <a href="mailto:carlos@anselmi.com.ve"><b class="high-blod">Anselmi</b></a></small>
+            <small>Copyright © {{ date('Y') }} <a href="mailto:carlos@anselmi.com.ve"><b class="high-blod">Anselmi</b></a></small>
         </div>
 	</footer>
 @stop
